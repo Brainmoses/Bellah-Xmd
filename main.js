@@ -60,7 +60,7 @@ require('./main.js')
 nocache('../main.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
 
 //------------------------------------------------------
-let phoneNumber = "254104245659"
+let phoneNumber = "254710329917"
 let owner = JSON.parse(fs.readFileSync('./src/data/role/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
@@ -211,15 +211,14 @@ caption: ` VolTah Xmd (Bellah Xmd V2) connected
 
 > Mode:  ${Bellah.public ? '𝗣𝘂𝗯𝗹𝗶𝗰 ϟ' : '𝗣𝗿𝗶𝘃𝗮𝘁𝗲 ϟ'}
 
-*Follow support for updates*
-https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D
+*Follow support for updates*https://chat.whatsapp.com/DkaqpXIK87HE11pAHWERN8
 
 *Join Group*
 
 https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H
 
 
-> Enjoy 😍`
+> Enjoy 🔮`
 })
 
 
@@ -278,7 +277,7 @@ Bellah.ev.on("messages.upsert",  () => { })
                     : mek.message;
 
             if (mek.key && mek.key.remoteJid === 'status@broadcast') {
-                let emoji = [ "💙","❤️", "🌚","😍", "😭" ];
+                let emoji = [ "💙","❤️", "🔮","😍", "😭" ];
                 let sigma = emoji[Math.floor(Math.random() * emoji.length)];
                 await Bellah.readMessages([mek.key]);
                 Bellah.sendMessage(
