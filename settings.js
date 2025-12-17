@@ -11,17 +11,17 @@ global.socialm = "IG: @GIDDYTENNOR"
 global.location = "Kenya" 
 
 //new
-global.botname = process.env.BOT_NAME ||'𝐁𝐞𝐥𝐥𝐚𝐡 𝐗𝐦𝐝' //enter your  bot name here
-global.ownernumber = process.env.OWNER_NUMBER ||'254104245659' //ur owner number
+global.botname = process.env.BOT_NAME ||'Virus-254-king' //enter your  bot name here
+global.ownernumber = process.env.OWNER_NUMBER ||'254710329917' //ur owner number
 global.ownername = 'Giddy Tennor' //ur owner name
-global.websitex = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D" 
-global.wagc = "https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H" 
+global.websitex = "https://chat.whatsapp.com/DkaqpXIK87HE11pAHWERN8" 
+global.wagc = "https://files.catbox.moe/se5e6e.jpg" 
 global.themeemoji = '🪀'
 global.wm = "GIDDY TENNOR"
 global.botscript = 'https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D' 
-global.packname = process.env.PACK_NAME ||"VolTah Xmd" //enter your stickers author name here
+global.packname = process.env.PACK_NAME ||"Virus-254-king" //enter your stickers author name here
 global.author = "Giddy-Tennor"
-global.creator = "254703726139@s.whatsapp.net"
+global.creator = "254710329917@s.whatsapp.net"
 global.xprefix = process.env.BOT_PREFIX ||'.'
 global.hituet = 0
 
