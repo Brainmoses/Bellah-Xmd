@@ -1,4 +1,4 @@
-# Virus-V4 V3 (Virus-254-king) is here
+# Virus-V4 🔮V3 (Virus-254-king) is here
 
 *Third version based on commands inform of plugins*
 
@@ -86,7 +86,7 @@ Thanks to...
 
 <div align="center">
 
-| [![GiddyTennor](https://github.com/Tennor-modz.png?lenght=50width=50)](https://github.com/Tennor-modz)|
+| [![GiddyTennor](https://files.catbox.moe/essd1n.jpg?lenght=50width=50)](https://github.com/Tennor-modz)|
 |----|
 * [`GiddyTennor`](https://github.com/Tennor-modz) ***Author, Owner, Developer***
 
@@ -97,4 +97,4 @@ Thanks to...
 > Version 3.2.0
 
 
-©𝗩𝗼𝗹𝗧𝗮𝗵 𝗫𝗺𝗱 - 𝗕𝗲𝗹𝗹𝗮𝗵 𝗫𝗺𝗱 𝗩3 2025
+©Virus-V4🔮 - Virus-254-king 𝗩3 2025
