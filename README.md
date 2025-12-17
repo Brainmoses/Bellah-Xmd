@@ -8,7 +8,7 @@
 
  
 <p align="center">
-<a href="https://github.com/Tennor-modz"><img title="Author" src="https://url.bwmxmd.online/Adams.s0tso4x6.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Tennor-modz"><img title="Author" src="https://files.catbox.moe/se5e6e.jpg?style=for-the-badge&logo=github"></a>
 
 <p align="center">
 <a href="https://github.com/Tennor-modz/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tennor-modz?color=blue&style=flat-square"></a>
