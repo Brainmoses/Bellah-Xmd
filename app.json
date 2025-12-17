@@ -17,12 +17,12 @@
 },
   "BOT_NAME": {
       "description": "Enter bot name of your choice here",
-      "value": "VolTah Xmd",
+      "value": "Virus-254-king",
       "required": false
     },
   "OWNER_NUMBER": {
       "description": "Enter your whatsapp number here",
-      "value": "254104245659",
+      "value": "254710329917",
       "required": true
   },
     "OWNER_NAME": {
@@ -32,7 +32,7 @@
     },
   "PACK_NAME": {
       "description": "Enter your sticker pack name",
-      "value": "VolTahXmd",
+      "value": "Virus-254-king",
       "required": false
     },
   "AUTOSW_VIEW": {
